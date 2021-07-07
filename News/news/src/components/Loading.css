@@ -1,0 +1,14 @@
+.loading {
+         display: flex;
+         align-items: center;
+         justify-content: center;
+         height: 90vh;
+         margin: 0 auto;
+         background-color: #1F201A;
+}
+
+.loading p {
+         font-weight: 800;
+         color: #fff;
+         font-size: 5rem;
+}

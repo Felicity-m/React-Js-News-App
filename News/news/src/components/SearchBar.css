@@ -1,0 +1,20 @@
+.search-bar {
+         margin-bottom:3rem;
+         display: flex;
+         justify-content: flex-end;
+         margin-top: 5rem;
+         
+         
+
+
+}
+
+.search {
+         border: none;
+         border-bottom: 1px solid #444;
+}
+
+.search:focus {
+         outline: none;
+         border-bottom: 1px solid #ffafcc;
+}
